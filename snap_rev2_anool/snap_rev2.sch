@@ -1024,4 +1024,15 @@ $EndComp
 Wire Wire Line
 	4300 875  4300 1025
 Connection ~ 4300 1025
+$Comp
+L Mounting_Hole MK2
+U 1 1 59FB6FBC
+P 7300 5850
+F 0 "MK2" H 7400 5901 50  0000 L CNN
+F 1 "Mounting_Hole_PAD" H 7400 5810 50  0000 L CNN
+F 2 "snap_fp:MountingHole_1.7mm_M1.6" H 7300 5850 50  0001 C CNN
+F 3 "" H 7300 5850 50  0001 C CNN
+	1    7300 5850
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
