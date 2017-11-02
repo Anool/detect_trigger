@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name detect_trigger)(type KiCad)(uri /home/samata/projects-git/detect_trigger_hw/kicad_lib/detect_trigger.pretty)(options "")(descr ""))
+  (lib (name snap_fp)(type KiCad)(uri "$(KIPRJMOD)/snap_fp.pretty")(options "")(descr ""))
+)
